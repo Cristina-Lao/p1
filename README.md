@@ -11,6 +11,7 @@ Se ha realizado un fork del repositorio https://github.com/gitt-3-pat/p1 y se ha
 - git commit
 - git push
 - git checkout
+
 Se puede ver el desarrollo completo de esta parte de la práctica en este [documento](https://github.com/Cristina-Lao/p1/blob/main/git.pdf)
 
 Una vez realizado lo anterior, es necesario proceder a prepara el equipo con el entorno de desarrollo java. Para ello hay que descargar:
